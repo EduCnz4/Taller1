@@ -7,6 +7,8 @@ body {
 }
 
 #container {
+    background-image: url(Imagenes/unc2.jpg);
+    background-repeat: no-repeat;
     width: 90%;
 	max-width: 1200px;
 	margin-left: auto; 
